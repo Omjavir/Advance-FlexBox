@@ -1,0 +1,23 @@
+.flex{
+    display: flex;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: rgb(66, 118, 238);
+    border: 3px solid blue;
+}
+
+.flex{
+    /* gap: 2rem;
+    flex-wrap: wrap; */
+    /* flex-direction: column; */
+    /* flex-direction: row-reverse; */
+    /* writing-mode: vertical-lr; */
+
+}
